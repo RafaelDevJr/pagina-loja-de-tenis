@@ -1,0 +1,12 @@
+.galeria__botao {
+    background-color: #345ba0;
+    border: none;
+    border-radius: 5px;
+    color: #fdfdfd;
+    padding: 1rem;
+    transition: all .1s ease-in-out;
+}
+.galeria__botao:hover {
+    background-color: #294b84;
+    cursor: pointer;
+}
